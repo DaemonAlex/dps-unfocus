@@ -2,6 +2,12 @@
 
 One key that frees a player who is stuck in a menu.
 
+## Status
+
+Not running on DelPerroSands since 12 November 2026. This fix is now part of `dps-fixes`, which
+carries the same code along with the server's other small fixes. Run this script or `dps-fixes`,
+not both: running both does the same job twice.
+
 ## What it is for
 
 Sometimes a menu closes badly. The mouse cursor stays on screen, the keys do nothing, or the
@@ -47,6 +53,7 @@ There is no config file.
 
 ## Recent changes
 
+- **12 November 2026.** Taken off the DelPerroSands server. `dps-fixes` does this job now.
 - **12 November 2026.** README added.
 - **25 October 2026.** First commit, as it runs on DelPerroSands.
 
